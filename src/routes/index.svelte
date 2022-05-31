@@ -21,7 +21,7 @@
 </script>
 
 <svelte:head>
-    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <script src="https://accounts.google.com/gsi/client"></script>
 </svelte:head>
 
 <main>
