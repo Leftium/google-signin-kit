@@ -24,4 +24,10 @@
     <script src="https://accounts.google.com/gsi/client" async defer></script>
 </svelte:head>
 
-<div id=buttonDiv></div>
+<main>
+    <h1>Demo for <a href=https://stackoverflow.com/questions/72411045/google-auth-oauth-2-0-sveltekit-wierd-behavior>Google Auth OAuth 2.0 SvelteKit wierd behavior</a></h1>
+
+    <p><a href=https://github.com/Leftium/google-signin-kit>View on Github</a></p>
+
+    <div id=buttonDiv></div>
+</main>
